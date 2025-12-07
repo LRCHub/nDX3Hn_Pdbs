@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "レプリカ - Replica",
+  "base_artist": "BAK",
+  "createdAt": "2025-12-07T01:23:42.386996Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "レプリカ",
+      "artist": "神崎エルザ",
+      "has_synced": true,
+      "path": "select/01_レプリカ_神崎エルザ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "レプリカ",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/02_レプリカ_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "レプリカ",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/03_レプリカ_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "レプリカ",
+      "artist": "神崎エルザ (ReoNa)",
+      "has_synced": true,
+      "path": "select/04_レプリカ_神崎エルザ_(ReoNa).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "レプリカ",
+      "artist": "神崎エルザ starring ReoNa",
+      "has_synced": true,
+      "path": "select/05_レプリカ_神崎エルザ_starring_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "レプリカ",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/06_レプリカ_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "レプリカ",
+      "artist": "坂本 真綾",
+      "has_synced": true,
+      "path": "select/07_レプリカ_坂本_真綾.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "レプリカ - Replica feat. IKE",
+      "artist": "BAK",
+      "has_synced": false,
+      "path": "select/pl_01_レプリカ_-_Replica_feat._IKE_BAK.txt"
+    }
+  ]
+}
